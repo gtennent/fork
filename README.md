@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/TechOpsDerivco/Derivco/_apis/build/status/gtennent.fork?branchName=master)](https://dev.azure.com/TechOpsDerivco/Derivco/_build/latest?definitionId=2&branchName=master)
+
 
 # Contributing
 
